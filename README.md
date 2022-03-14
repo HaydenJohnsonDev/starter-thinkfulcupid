@@ -1,5 +1,13 @@
 # ThinkfulCupid
 
+for this project I was tasked with creating a web page layout with specific visual specifications. 
+This project tests my ability to match a mock up sent by a Ux/Ui partner.
+The site is fully responsive to the device size it is viewed on.
+
+to view this site, simply cody and paste the url: https://haydenjohnsondev.github.io/starter-thinkfulcupid/
+
+# Below here is the instructions I was given
+
 ThinkfulCupid is an online dating and matchmaking website that allows people to meet, date, and network with each other. ThinkfulCupid uses a special algorithm that matches people based on their personality types. It also allows matches to connect with each other regardless of their locations via video conferencing.
 
 For this assignment, you will implement ThinkfulCupid's landing page in HTML & CSS.
